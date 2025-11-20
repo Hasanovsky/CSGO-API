@@ -34,6 +34,16 @@ export const LANGUAGES_URL = [
         folder: "ru",
         url: getLanguageUrl("russian"),
     },
+    {
+        language: "turkish",
+        folder: "tr",
+        url: getLanguageUrl("turkish"),
+    },
+    {
+        language: "ukrainian",
+        folder: "uk",
+        url: getLanguageUrl("ukrainian"),
+    },
     // {
     //     language: "spanish",
     //     folder: "es-ES",
