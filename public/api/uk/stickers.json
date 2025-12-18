@@ -386107,5 +386107,885 @@
    "name": "bud2025_signature_tiger_4_gold",
    "image_inventory": "econ/stickers/bud2025/sig_tiger_gold"
   }
+ },
+ {
+  "id": "sticker-10294",
+  "name": "Наліпка | apEX (Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This sticker was autographed by professional player Dan Madesclaire playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10294",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | apEX (Champion) | Budapest 2025",
+  "effect": "Other",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 29478439,
+   "name": "apEX",
+   "code": "apex",
+   "dob": "1993-02-22",
+   "geo": "FR"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_png.png",
+  "original": {
+   "name": "bud2025_signature_apex_32",
+   "image_inventory": "econ/stickers/bud2025/sig_apex_champion"
+  }
+ },
+ {
+  "id": "sticker-10295",
+  "name": "Наліпка | apEX (Embroidered, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This embroidered sticker was autographed by professional player Dan Madesclaire playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10295",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | apEX (Embroidered, Champion) | Budapest 2025",
+  "effect": "Other",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 29478439,
+   "name": "apEX",
+   "code": "apex",
+   "dob": "1993-02-22",
+   "geo": "FR"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_embroidered_png.png",
+  "original": {
+   "name": "bud2025_signature_apex_32_embroidered",
+   "image_inventory": "econ/stickers/bud2025/sig_apex_champion_embroidered"
+  }
+ },
+ {
+  "id": "sticker-10296",
+  "name": "Наліпка | apEX (Holo, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This holographic sticker was autographed by professional player Dan Madesclaire playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10296",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | apEX (Holo, Champion) | Budapest 2025",
+  "effect": "Holo",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 29478439,
+   "name": "apEX",
+   "code": "apex",
+   "dob": "1993-02-22",
+   "geo": "FR"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_holo_png.png",
+  "original": {
+   "name": "bud2025_signature_apex_32_holo",
+   "image_inventory": "econ/stickers/bud2025/sig_apex_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-10297",
+  "name": "Наліпка | apEX (Gold, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This gold sticker was autographed by professional player Dan Madesclaire playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10297",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | apEX (Gold, Champion) | Budapest 2025",
+  "effect": "Gold",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 29478439,
+   "name": "apEX",
+   "code": "apex",
+   "dob": "1993-02-22",
+   "geo": "FR"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_gold_png.png",
+  "original": {
+   "name": "bud2025_signature_apex_32_gold",
+   "image_inventory": "econ/stickers/bud2025/sig_apex_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-10298",
+  "name": "Наліпка | FlameZ (Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This sticker was autographed by professional player Shahar Hai Shoshan playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10298",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | FlameZ (Champion) | Budapest 2025",
+  "effect": "Other",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 18569432,
+   "name": "FlameZ",
+   "code": "flamez",
+   "dob": "1970-01-01",
+   "geo": "IL"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_png.png",
+  "original": {
+   "name": "bud2025_signature_flamez_32",
+   "image_inventory": "econ/stickers/bud2025/sig_flamez_champion"
+  }
+ },
+ {
+  "id": "sticker-10299",
+  "name": "Наліпка | FlameZ (Embroidered, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This embroidered sticker was autographed by professional player Shahar Hai Shoshan playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10299",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | FlameZ (Embroidered, Champion) | Budapest 2025",
+  "effect": "Other",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 18569432,
+   "name": "FlameZ",
+   "code": "flamez",
+   "dob": "1970-01-01",
+   "geo": "IL"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_embroidered_png.png",
+  "original": {
+   "name": "bud2025_signature_flamez_32_embroidered",
+   "image_inventory": "econ/stickers/bud2025/sig_flamez_champion_embroidered"
+  }
+ },
+ {
+  "id": "sticker-10300",
+  "name": "Наліпка | FlameZ (Holo, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This holographic sticker was autographed by professional player Shahar Hai Shoshan playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10300",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | FlameZ (Holo, Champion) | Budapest 2025",
+  "effect": "Holo",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 18569432,
+   "name": "FlameZ",
+   "code": "flamez",
+   "dob": "1970-01-01",
+   "geo": "IL"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_holo_png.png",
+  "original": {
+   "name": "bud2025_signature_flamez_32_holo",
+   "image_inventory": "econ/stickers/bud2025/sig_flamez_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-10301",
+  "name": "Наліпка | FlameZ (Gold, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This gold sticker was autographed by professional player Shahar Hai Shoshan playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10301",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | FlameZ (Gold, Champion) | Budapest 2025",
+  "effect": "Gold",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 18569432,
+   "name": "FlameZ",
+   "code": "flamez",
+   "dob": "1970-01-01",
+   "geo": "IL"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_gold_png.png",
+  "original": {
+   "name": "bud2025_signature_flamez_32_gold",
+   "image_inventory": "econ/stickers/bud2025/sig_flamez_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-10302",
+  "name": "Наліпка | mezii (Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This sticker was autographed by professional player William Cameron Merriman playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10302",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | mezii (Champion) | Budapest 2025",
+  "effect": "Other",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 12874964,
+   "name": "mezii",
+   "code": "mezii",
+   "dob": "1970-01-01",
+   "geo": "GB"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_png.png",
+  "original": {
+   "name": "bud2025_signature_mezii_32",
+   "image_inventory": "econ/stickers/bud2025/sig_mezii_champion"
+  }
+ },
+ {
+  "id": "sticker-10303",
+  "name": "Наліпка | mezii (Embroidered, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This embroidered sticker was autographed by professional player William Cameron Merriman playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10303",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | mezii (Embroidered, Champion) | Budapest 2025",
+  "effect": "Other",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 12874964,
+   "name": "mezii",
+   "code": "mezii",
+   "dob": "1970-01-01",
+   "geo": "GB"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_embroidered_png.png",
+  "original": {
+   "name": "bud2025_signature_mezii_32_embroidered",
+   "image_inventory": "econ/stickers/bud2025/sig_mezii_champion_embroidered"
+  }
+ },
+ {
+  "id": "sticker-10304",
+  "name": "Наліпка | mezii (Holo, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This holographic sticker was autographed by professional player William Cameron Merriman playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10304",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | mezii (Holo, Champion) | Budapest 2025",
+  "effect": "Holo",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 12874964,
+   "name": "mezii",
+   "code": "mezii",
+   "dob": "1970-01-01",
+   "geo": "GB"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_holo_png.png",
+  "original": {
+   "name": "bud2025_signature_mezii_32_holo",
+   "image_inventory": "econ/stickers/bud2025/sig_mezii_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-10305",
+  "name": "Наліпка | mezii (Gold, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This gold sticker was autographed by professional player William Cameron Merriman playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10305",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | mezii (Gold, Champion) | Budapest 2025",
+  "effect": "Gold",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 12874964,
+   "name": "mezii",
+   "code": "mezii",
+   "dob": "1970-01-01",
+   "geo": "GB"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_gold_png.png",
+  "original": {
+   "name": "bud2025_signature_mezii_32_gold",
+   "image_inventory": "econ/stickers/bud2025/sig_mezii_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-10306",
+  "name": "Наліпка | ropz (Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This sticker was autographed by professional player Robin Kool playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10306",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | ropz (Champion) | Budapest 2025",
+  "effect": "Other",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 31006590,
+   "name": "ropz",
+   "code": "ropz",
+   "dob": "1999-12-22",
+   "geo": "EE"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_png.png",
+  "original": {
+   "name": "bud2025_signature_ropz_32",
+   "image_inventory": "econ/stickers/bud2025/sig_ropz_champion"
+  }
+ },
+ {
+  "id": "sticker-10307",
+  "name": "Наліпка | ropz (Embroidered, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This embroidered sticker was autographed by professional player Robin Kool playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10307",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | ropz (Embroidered, Champion) | Budapest 2025",
+  "effect": "Other",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 31006590,
+   "name": "ropz",
+   "code": "ropz",
+   "dob": "1999-12-22",
+   "geo": "EE"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_embroidered_png.png",
+  "original": {
+   "name": "bud2025_signature_ropz_32_embroidered",
+   "image_inventory": "econ/stickers/bud2025/sig_ropz_champion_embroidered"
+  }
+ },
+ {
+  "id": "sticker-10308",
+  "name": "Наліпка | ropz (Holo, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This holographic sticker was autographed by professional player Robin Kool playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10308",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | ropz (Holo, Champion) | Budapest 2025",
+  "effect": "Holo",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 31006590,
+   "name": "ropz",
+   "code": "ropz",
+   "dob": "1999-12-22",
+   "geo": "EE"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_holo_png.png",
+  "original": {
+   "name": "bud2025_signature_ropz_32_holo",
+   "image_inventory": "econ/stickers/bud2025/sig_ropz_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-10309",
+  "name": "Наліпка | ropz (Gold, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This gold sticker was autographed by professional player Robin Kool playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10309",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | ropz (Gold, Champion) | Budapest 2025",
+  "effect": "Gold",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 31006590,
+   "name": "ropz",
+   "code": "ropz",
+   "dob": "1999-12-22",
+   "geo": "EE"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_gold_png.png",
+  "original": {
+   "name": "bud2025_signature_ropz_32_gold",
+   "image_inventory": "econ/stickers/bud2025/sig_ropz_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-10310",
+  "name": "Наліпка | ZywOo (Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10310",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | ZywOo (Champion) | Budapest 2025",
+  "effect": "Other",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 153400465,
+   "name": "ZywOo",
+   "code": "zywoo",
+   "dob": "2000-11-09",
+   "geo": "FR"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_png.png",
+  "original": {
+   "name": "bud2025_signature_zywoo_32",
+   "image_inventory": "econ/stickers/bud2025/sig_zywoo_champion"
+  }
+ },
+ {
+  "id": "sticker-10311",
+  "name": "Наліпка | ZywOo (Embroidered, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This embroidered sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10311",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | ZywOo (Embroidered, Champion) | Budapest 2025",
+  "effect": "Other",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 153400465,
+   "name": "ZywOo",
+   "code": "zywoo",
+   "dob": "2000-11-09",
+   "geo": "FR"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_embroidered_png.png",
+  "original": {
+   "name": "bud2025_signature_zywoo_32_embroidered",
+   "image_inventory": "econ/stickers/bud2025/sig_zywoo_champion_embroidered"
+  }
+ },
+ {
+  "id": "sticker-10312",
+  "name": "Наліпка | ZywOo (Holo, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This holographic sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10312",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | ZywOo (Holo, Champion) | Budapest 2025",
+  "effect": "Holo",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 153400465,
+   "name": "ZywOo",
+   "code": "zywoo",
+   "dob": "2000-11-09",
+   "geo": "FR"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_holo_png.png",
+  "original": {
+   "name": "bud2025_signature_zywoo_32_holo",
+   "image_inventory": "econ/stickers/bud2025/sig_zywoo_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-10313",
+  "name": "Наліпка | ZywOo (Gold, Champion) | Budapest 2025",
+  "description": "<span style='color:#ffd700;'>Цей предмет нагадує про Великий турнір із CS2 «StarLadder Будапешт 2025».</span><br/><br/> Ця наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, аби вона виглядала більш зношеною. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.<br><br>This gold sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "def_index": "10313",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-5233",
+    "name": "Капсула з автографами чемпіонів «Будапешт 2025»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | ZywOo (Gold, Champion) | Budapest 2025",
+  "effect": "Gold",
+  "tournament": {
+   "id": 25,
+   "name": "StarLadder Будапешт 2025"
+  },
+  "team": {
+   "id": 89,
+   "tag": "VITA",
+   "geo": "FR",
+   "name": "Vitality"
+  },
+  "player": {
+   "id": 153400465,
+   "name": "ZywOo",
+   "code": "zywoo",
+   "dob": "2000-11-09",
+   "geo": "FR"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_gold_png.png",
+  "original": {
+   "name": "bud2025_signature_zywoo_32_gold",
+   "image_inventory": "econ/stickers/bud2025/sig_zywoo_champion_gold"
+  }
  }
 ]

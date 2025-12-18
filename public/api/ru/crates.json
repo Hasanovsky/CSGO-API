@@ -162841,7 +162841,208 @@
    "name": "базового класса",
    "color": "#b0c3d9"
   },
-  "contains": [],
+  "contains": [
+   {
+    "id": "sticker-10294",
+    "name": "apEX (Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_png.png"
+   },
+   {
+    "id": "sticker-10298",
+    "name": "FlameZ (Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_png.png"
+   },
+   {
+    "id": "sticker-10302",
+    "name": "mezii (Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_png.png"
+   },
+   {
+    "id": "sticker-10306",
+    "name": "ropz (Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_png.png"
+   },
+   {
+    "id": "sticker-10310",
+    "name": "ZywOo (Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_png.png"
+   },
+   {
+    "id": "sticker-10295",
+    "name": "apEX (Embroidered, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_embroidered_png.png"
+   },
+   {
+    "id": "sticker-10299",
+    "name": "FlameZ (Embroidered, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_embroidered_png.png"
+   },
+   {
+    "id": "sticker-10303",
+    "name": "mezii (Embroidered, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_embroidered_png.png"
+   },
+   {
+    "id": "sticker-10307",
+    "name": "ropz (Embroidered, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_embroidered_png.png"
+   },
+   {
+    "id": "sticker-10311",
+    "name": "ZywOo (Embroidered, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_embroidered_png.png"
+   },
+   {
+    "id": "sticker-10296",
+    "name": "apEX (Holo, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-10300",
+    "name": "FlameZ (Holo, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-10304",
+    "name": "mezii (Holo, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-10308",
+    "name": "ropz (Holo, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-10312",
+    "name": "ZywOo (Holo, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-10297",
+    "name": "apEX (Gold, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-10301",
+    "name": "FlameZ (Gold, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-10305",
+    "name": "mezii (Gold, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-10309",
+    "name": "ropz (Gold, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-10313",
+    "name": "ZywOo (Gold, Champion) | Budapest 2025",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_gold_png.png"
+   }
+  ],
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Champions Autograph Capsule",
   "rental": false,
