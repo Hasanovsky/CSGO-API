@@ -8401,7 +8401,7 @@
  },
  {
   "id": "skin-9197715f9f3f",
-  "name": "АК-47 | Aphrodite",
+  "name": "АК-47 | Афродіта",
   "description": "Потужний і надійний, автомат Калашникова — один із найпопулярніших у світі. Найсмертельніший під час стрільби короткими прицільними серіями. The receiver and barrel have been painted with metallic paint. The hand guard and butt stock have been painted to resemble Mother of Pearl.\\n\\n<i>From a different plane</i>",
   "weapon": {
    "id": "weapon_ak47",
@@ -8414,7 +8414,7 @@
   },
   "pattern": {
    "id": "gsch_ak_djiin",
-   "name": "Aphrodite"
+   "name": "Афродіта"
   },
   "min_float": 0,
   "max_float": 1,
@@ -9151,7 +9151,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -12653,7 +12653,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -16486,7 +16486,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -16553,7 +16553,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -21717,7 +21717,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -21784,7 +21784,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -24736,7 +24736,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -28265,7 +28265,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -31277,7 +31277,7 @@
  {
   "id": "skin-6e77ad6f522c",
   "name": "Подвійні «Беретти» | Silver Pour",
-  "description": "Вогонь одночасно з двох пістолетів «Беретта» з великим магазином зменшує точність та збільшує час заряджання. З іншого боку, ви можете стріляти одразу двома. A grayscale acrylic pour pattern has been applied.\\n\\n<i>In the end it all seems to come together</i>",
+  "description": "Вогонь одночасно з двох пістолетів «Беретта» з великим магазином зменшує точність та збільшує час заряджання. З іншого боку, ви можете стріляти одразу двома. Нанесено розводи акриловими фарбами у відтінках сірого.\\n\\n<i>Схоже, зрештою все сходиться</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -31326,7 +31326,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -33968,7 +33968,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -34180,7 +34180,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -37639,7 +37639,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -42513,7 +42513,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -46784,7 +46784,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -50365,7 +50365,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -88298,7 +88298,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -91964,7 +91964,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -95276,7 +95276,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -99378,7 +99378,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -104981,7 +104981,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -105211,7 +105211,7 @@
  },
  {
   "id": "skin-105633b3f165",
-  "name": "МП5-СД | Picnic",
+  "name": "МП5-СД | Пікнік",
   "description": "Його часто імітували, але так і не змогли повторити. Легендарний МП5, імовірно, найбільш універсальний та популярний пістолет-кулемет у світі. Цей варіант має інтегрований глушник, що робить цю грізну зброю тихою, мов шепіт. A red pattern of offset X's has been applied.\\n\\n<i>It's a bit much, but isn't that the point? - Imogen, Arms Dealer In Training</i>",
   "weapon": {
    "id": "weapon_mp5sd",
@@ -105224,7 +105224,7 @@
   },
   "pattern": {
    "id": "soe_red",
-   "name": "Picnic"
+   "name": "Пікнік"
   },
   "min_float": 0,
   "max_float": 0.75,
@@ -105261,7 +105261,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -107494,7 +107494,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -111508,7 +111508,7 @@
  {
   "id": "skin-fd612b65c748",
   "name": "МП9 | Dizzy",
-  "description": "Вироблений у Швейцарії передовий пістолет-кулемет МП9 — це ергономічна полімерна зброя, яку полюбляють приватні охоронні фірми. A grayscale DDPAT has been applied.\\n\\n<i>Round and round we go</i>",
+  "description": "Вироблений у Швейцарії передовий пістолет-кулемет МП9 — це ергономічна полімерна зброя, яку полюбляють приватні охоронні фірми. Нанесено піксельний камуфляж у відтінках сірого.\\n\\n<i>По колу</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -111557,7 +111557,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -111624,7 +111624,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -116264,7 +116264,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -120740,7 +120740,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -124642,7 +124642,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -127769,7 +127769,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -127903,7 +127903,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -130266,7 +130266,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -132382,7 +132382,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -135169,7 +135169,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -137823,7 +137823,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -138330,7 +138330,7 @@
  {
   "id": "skin-158373106a93",
   "name": "ССГ 08 | Sans Comic",
-  "description": "ССГ 08 — це снайперська гвинтівка з рухомим затвором, котра не завдає великих ушкоджень, однак має прийнятну ціну. Вона є гарним вибором у перших раундах для влучного вогню з далекої дистанції. A grayscale pattern featuring high gloss silver paint has been applied.\\n\\n<i>\\\"The red light means it's recording\\\"</i>",
+  "description": "ССГ 08 — це снайперська гвинтівка з рухомим затвором, котра не завдає великих ушкоджень, однак має прийнятну ціну. Вона є гарним вибором у перших раундах для влучного вогню з далекої дистанції. Нанесено візерунок глянцевою срібною фарбою у відтінках сірого.\\n\\n<i>Червоний вогник означає, що йде запис</i>",
   "weapon": {
    "id": "weapon_ssg08",
    "weapon_id": 40,
@@ -138379,7 +138379,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Колекція «Ахрома»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -139711,7 +139711,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -142638,7 +142638,7 @@
  },
  {
   "id": "skin-25af68e7c19c",
-  "name": "ТЕК-9 | Banana Leaf",
+  "name": "ТЕК-9 | Бананове листя",
   "description": "ТЕК-9 ідеально пасує терористам, які активно пересуваються. Він смертоносний у ближньому бою і має місткий магазин. A yellow and black banana leaf pattern has been applied.\\n\\n<i>Rich in potassium</i>",
   "weapon": {
    "id": "weapon_tec9",
@@ -142651,7 +142651,7 @@
   },
   "pattern": {
    "id": "hye_batik_eyes_tec9",
-   "name": "Banana Leaf"
+   "name": "Бананове листя"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -142688,7 +142688,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -146076,7 +146076,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -149768,7 +149768,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -153343,7 +153343,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Колекція «Арлекін»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],

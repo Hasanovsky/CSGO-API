@@ -8402,7 +8402,7 @@
  {
   "id": "skin-9197715f9f3f",
   "name": "AK-47 | Afrodit",
-  "description": "Güçlü ve güvenilir, AK-47 dünyanın en popüler saldırı tüfeklerinden biridir. Kontrollü atış gücü ile yakın mesafede ölümcüldür. The receiver and barrel have been painted with metallic paint. The hand guard and butt stock have been painted to resemble Mother of Pearl.\\n\\n<i>From a different plane</i>",
+  "description": "Güçlü ve güvenilir, AK-47 dünyanın en popüler saldırı tüfeklerinden biridir. Kontrollü atış gücü ile yakın mesafede ölümcüldür. Gövde ve namlu metalik boya ile boyanmıştır. El koruması ve arka dipçik ise sedefe benzeyecek şekilde boyanmıştır.\\n\\n<i>Farklı bir bakış açısı.</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -16436,8 +16436,8 @@
  },
  {
   "id": "skin-d384f428d432",
-  "name": "AWP | Exothermic",
-  "description": "Büyük risk ve büyük ödül. Ünlü AWP silahı, bir atışta bir leş sözü ile de hatırlanabilir. A red-colored burst pattern has been applied.\\n\\n<i>\\\"Cool guys don't look at explosions\\\"</i>",
+  "name": "AWP | Ekzotermik",
+  "description": "Büyük risk ve büyük ödül. Ünlü AWP silahı, bir atışta bir leş sözü ile de hatırlanabilir. Kırmızı renginde bir patlama deseni uygulanmıştır.\\n\\n<i>\\\"Karizmatik kişiler patlamalara bakmaz.\\\"</i>",
   "weapon": {
    "id": "weapon_awp",
    "weapon_id": 9,
@@ -16449,7 +16449,7 @@
   },
   "pattern": {
    "id": "hye_firework_patches",
-   "name": "Exothermic"
+   "name": "Ekzotermik"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -24686,8 +24686,8 @@
  },
  {
   "id": "skin-56333a38bf41",
-  "name": "CZ75-Otomatik | Honey Paisley",
-  "description": "CZ75'in tam otomatik bir türü olan CZ75-Otomatik, rakibinin silahını alarak durumu kendi lehine çevirmek için kısa vadeli ideal bir seçenektir. Fakat çok az bir cephaneye sahip olduğu için, güçlü bir tetik disiplini gerektirir. It has been painted with a gold-colored paisley pattern over a wine-colored base.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
+  "name": "CZ75-Otomatik | Ballı Pateh",
+  "description": "CZ75'in tam otomatik bir türü olan CZ75-Otomatik, rakibinin silahını alarak durumu kendi lehine çevirmek için kısa vadeli ideal bir seçenektir. Fakat çok az bir cephaneye sahip olduğu için, güçlü bir tetik disiplini gerektirir. Şarap renkli bir taban üzerine altın renkli bir pateh deseni ile boyanmıştır.\\n\\n<i>En iyi kumaşlarım senin için, Booth. - Silah Ustası Yukako</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -24699,7 +24699,7 @@
   },
   "pattern": {
    "id": "hye_paisley_desat",
-   "name": "Honey Paisley"
+   "name": "Ballı Pateh"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -37589,8 +37589,8 @@
  },
  {
   "id": "skin-6f23920b8406",
-  "name": "Five-SeveN | Fraise Crane",
-  "description": "Yüksek isabet oranı ve zırh delme kabiliyetine sahip pahalı bir tabanca olan Five-SeveN şarjörü yavaş doldurur, ama 20 mermilik cömert şarjörü ve geri tepme oranı bunu telafi eder. A pink and white pattern of cranes and flowers has been applied.\\n\\n<i>Best paired with a glass of sherry</i>",
+  "name": "Five-SeveN | Pembe Turna",
+  "description": "Yüksek isabet oranı ve zırh delme kabiliyetine sahip pahalı bir tabanca olan Five-SeveN şarjörü yavaş doldurur, ama 20 mermilik cömert şarjörü ve geri tepme oranı bunu telafi eder. Pembe ve beyaz renkli turna ve çiçek desenleri uygulanmıştır.\\n\\n<i>Bir kadeh sherry ile iyi gider.</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -37602,7 +37602,7 @@
   },
   "pattern": {
    "id": "soe_pink_cranes",
-   "name": "Fraise Crane"
+   "name": "Pembe Turna"
   },
   "min_float": 0,
   "max_float": 0.65,
@@ -42463,8 +42463,8 @@
  },
  {
   "id": "skin-49296f9e5232",
-  "name": "Galil AR | Sky Mandala",
-  "description": "Terörist saldırı tüfekleri arasında daha ucuz bir seçenek, Galil AR orta ve uzak mesafe çatışmada kullanışlı bir silahtır. A multicolored mandala pattern has been applied.\\n\\n<i>It's about the journey</i>",
+  "name": "Galil AR | Gökyüzü Desenli Mandala",
+  "description": "Terörist saldırı tüfekleri arasında daha ucuz bir seçenek, Galil AR orta ve uzak mesafe çatışmada kullanışlı bir silahtır. Çok renkli bir mandala deseni uygulanmıştır.\\n\\n<i>Önemli olan yolculuk.</i>",
   "weapon": {
    "id": "weapon_galilar",
    "weapon_id": 13,
@@ -42476,7 +42476,7 @@
   },
   "pattern": {
    "id": "hye_earth_mandala",
-   "name": "Sky Mandala"
+   "name": "Gökyüzü Desenli Mandala"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -95226,8 +95226,8 @@
  },
  {
   "id": "skin-bc5a36f177b0",
-  "name": "M4A1-S | Party Animal",
-  "description": "Susturuculu M4A1, susturucu çıkarılmış haline nazaran daha küçük bir şarjör haznesine sahip olmakla beraber daha az geri tepme ve daha iyi kesinlik ile daha sessiz atışlar sağlar. A bright, neon-colored animal print pattern has been applied.\\n\\n<i>You said \\\"a few colors\\\", not \\\"the entire color spectrum\\\"</i>",
+  "name": "M4A1-S | Parti Canavarı",
+  "description": "Susturuculu M4A1, susturucu çıkarılmış haline nazaran daha küçük bir şarjör haznesine sahip olmakla beraber daha az geri tepme ve daha iyi kesinlik ile daha sessiz atışlar sağlar. Parlak, neon renkli bir hayvan baskı deseni uygulanmıştır.\\n\\n<i>\\\"Birkaç renk\\\" demiştin, \\\"bütün renk yelpazesi\\\" değil.</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -95239,7 +95239,7 @@
   },
   "pattern": {
    "id": "hye_animal_print_90s",
-   "name": "Party Animal"
+   "name": "Parti Canavarı"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -105211,8 +105211,8 @@
  },
  {
   "id": "skin-105633b3f165",
-  "name": "MP5-SD | Picnic",
-  "description": "Çok sık taklit edilen ancak eşi benzeri olmayan MP5, dünyadaki hafif makineli silahlar arasından belki de en çok yönlü ve popüler olanlardan biridir. Ölümcül MP5'ın bu SD versiyonu sahip olduğu entegre susturucusu sayesinde fısıltı sessizliğinde çalışır. A red pattern of offset X's has been applied.\\n\\n<i>It's a bit much, but isn't that the point? - Imogen, Arms Dealer In Training</i>",
+  "name": "MP5-SD | Piknik",
+  "description": "Çok sık taklit edilen ancak eşi benzeri olmayan MP5, dünyadaki hafif makineli silahlar arasından belki de en çok yönlü ve popüler olanlardan biridir. Ölümcül MP5'ın bu SD versiyonu sahip olduğu entegre susturucusu sayesinde fısıltı sessizliğinde çalışır. X sembollerine sahip kırmızı bir desen uygulanmıştır.\\n\\n<i>Biraz fazla ama amaç da bu değil mi? - Imogen, Çömez Silah Tüccarı</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -105224,7 +105224,7 @@
   },
   "pattern": {
    "id": "soe_red",
-   "name": "Picnic"
+   "name": "Piknik"
   },
   "min_float": 0,
   "max_float": 0.75,
@@ -107444,8 +107444,8 @@
  },
  {
   "id": "skin-33edc6632c92",
-  "name": "MP7 | Coral Paisley",
-  "description": "Çok yönlü fakat pahalı. Alman yapımı MP7 hafif makinelisi yakın çatışmalarda etkili olmak için mükemmel bir seçimdir. A red and orange paisley pattern has been applied.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
+  "name": "MP7 | Mercan Pateh",
+  "description": "Çok yönlü fakat pahalı. Alman yapımı MP7 hafif makinelisi yakın çatışmalarda etkili olmak için mükemmel bir seçimdir. Kırmızı ve turuncu renkli bir pateh deseni uygulanmıştır.\\n\\n<i>En iyi kumaşlarım senin için, Booth. - Silah Ustası Yukako</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -107457,7 +107457,7 @@
   },
   "pattern": {
    "id": "hye_paisley_warm",
-   "name": "Coral Paisley"
+   "name": "Mercan Pateh"
   },
   "min_float": 0,
   "max_float": 0.65,
@@ -111574,7 +111574,7 @@
  },
  {
   "id": "skin-07db077aad75",
-  "name": "MP9 | Bee-Tron",
+  "name": "MP9 | Arımatik",
   "description": "İsviçre'de üretilmiş son teknoloji ürünü olan MP9 hafif makinelisi, özel güvenlik firmaları tarafından tercih edilen ergonomik polimer bir silahtır. Esas olarak gümüş renginde olan bu MP9'un olukları sarı ve kırmızı boyayla doldurulmuştur.\\n\\n<i>Beni durdurun!</i>",
   "weapon": {
    "id": "weapon_mp9",
@@ -111587,7 +111587,7 @@
   },
   "pattern": {
    "id": "soe_yellow_bits",
-   "name": "Bee-Tron"
+   "name": "Arımatik"
   },
   "min_float": 0,
   "max_float": 0.9,
@@ -127719,8 +127719,8 @@
  },
  {
   "id": "skin-2f4f4e0aaa4e",
-  "name": "R8 Revolver | Mauve Aside",
-  "description": "R8 Revolver, uzun bir tetik çekişi pahasına oldukça isabetli ve güçlü bir mermi sağlar. Çok kısa mesafeden durdurucu güç gerektiğinde belki de en iyi seçenek, horozu hızlıca ateşlemektir. The grip has been painted with a plum-colored acrylic pour pattern.\\n\\n<i>A gentle pour</i>",
+  "name": "R8 Revolver | Leylak Bir Yana",
+  "description": "R8 Revolver, uzun bir tetik çekişi pahasına oldukça isabetli ve güçlü bir mermi sağlar. Çok kısa mesafeden durdurucu güç gerektiğinde belki de en iyi seçenek, horozu hızlıca ateşlemektir. Kabzası erik renginde bir akrilik döküm deseni ile boyanmıştır.\\n\\n<i>Az döküm.</i>",
   "weapon": {
    "id": "weapon_revolver",
    "weapon_id": 64,
@@ -127732,7 +127732,7 @@
   },
   "pattern": {
    "id": "soch_copper_accent_revolver",
-   "name": "Mauve Aside"
+   "name": "Leylak Bir Yana"
   },
   "min_float": 0,
   "max_float": 0.80339,
@@ -130216,8 +130216,8 @@
  },
  {
   "id": "skin-0b2ec5b2c5ef",
-  "name": "Sawed-Off | Crimson Batik",
-  "description": "Klasik bir silah olan Sawed-Off yakın mesafelerde çok ağır hasar verir. Ama düşük isabet oranı, mermileri fazla dağıtması ve düşük atış hızından dolayı vurduğunuzu öldürseniz iyi olur. A crimson and black banana leaf pattern has been applied.\\n\\n<i>Moving targets</i>",
+  "name": "Sawed-Off | Kızıl Batik",
+  "description": "Klasik bir silah olan Sawed-Off yakın mesafelerde çok ağır hasar verir. Ama düşük isabet oranı, mermileri fazla dağıtması ve düşük atış hızından dolayı vurduğunuzu öldürseniz iyi olur. Kızıl ve siyah renkli muz yaprağı deseni uygulanmıştır.\\n\\n<i>Hedefler hareket halinde.</i>",
   "weapon": {
    "id": "weapon_sawedoff",
    "weapon_id": 29,
@@ -130229,7 +130229,7 @@
   },
   "pattern": {
    "id": "hye_batik_eyes",
-   "name": "Crimson Batik"
+   "name": "Kızıl Batik"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -137773,8 +137773,8 @@
  },
  {
   "id": "skin-2efacc35df16",
-  "name": "SSG 08 | Calligrafaux",
-  "description": "SSG 08'in az hasar veren ancak fiyatına göre çok etkili bir keskin nişancı silahı olması, ilk rauntlarda onu uzun menzilli nişancılık için akıllı bir tercih haline getirmektedir. A red calligraphy design has been applied.\\n\\n<i>Put it in writing</i>",
+  "name": "SSG 08 | Kaligrafi",
+  "description": "SSG 08'in az hasar veren ancak fiyatına göre çok etkili bir keskin nişancı silahı olması, ilk rauntlarda onu uzun menzilli nişancılık için akıllı bir tercih haline getirmektedir. Kırmızı bir kaligrafik tasarım uygulanmıştır.\\n\\n<i>Yazıya döküldü.</i>",
   "weapon": {
    "id": "weapon_ssg08",
    "weapon_id": 40,
@@ -137786,7 +137786,7 @@
   },
   "pattern": {
    "id": "ht_red_edges_fineline",
-   "name": "Calligrafaux"
+   "name": "Kaligrafi"
   },
   "min_float": 0,
   "max_float": 1,
@@ -139661,8 +139661,8 @@
  },
  {
   "id": "skin-0843472a9098",
-  "name": "Zeus x27 | Earth Mandala",
-  "description": "Yakın mesafe pusuları ve kapalı alan çatışmaları için mükemmel olan şarj edilebilir Zeus x27, düşmanı tek vuruşta etkisiz hâle getirme kapasitesine sahiptir. A multicolored mandala pattern has been applied.\\n\\n<i>It's about the journey</i>",
+  "name": "Zeus x27 | Toprak Desenli Mandala",
+  "description": "Yakın mesafe pusuları ve kapalı alan çatışmaları için mükemmel olan şarj edilebilir Zeus x27, düşmanı tek vuruşta etkisiz hâle getirme kapasitesine sahiptir. Çok renkli bir mandala deseni uygulanmıştır.\\n\\n<i>Önemli olan yolculuk.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -139674,7 +139674,7 @@
   },
   "pattern": {
    "id": "hye_earth_mandala_lc",
-   "name": "Earth Mandala"
+   "name": "Toprak Desenli Mandala"
   },
   "min_float": 0,
   "max_float": 0.66,
@@ -142639,7 +142639,7 @@
  {
   "id": "skin-25af68e7c19c",
   "name": "Tec-9 | Muz Yaprağı",
-  "description": "Hareket halindeki Teröristler için ideal bir tabanca olan Tec-9, yakın mesafeli çatışmalarda ölümcüldür ve yüksek kapasiteli bir şarjör sunar. A yellow and black banana leaf pattern has been applied.\\n\\n<i>Rich in potassium</i>",
+  "description": "Hareket halindeki Teröristler için ideal bir tabanca olan Tec-9, yakın mesafeli çatışmalarda ölümcüldür ve yüksek kapasiteli bir şarjör sunar. Sarı ve siyah renkli muz yaprağı deseni uygulanmıştır.\\n\\n<i>Bolca potasyum içerir.</i>",
   "weapon": {
    "id": "weapon_tec9",
    "weapon_id": 30,
@@ -146026,8 +146026,8 @@
  },
  {
   "id": "skin-37ac474a54e4",
-  "name": "UMP-45 | Warm Blooded",
-  "description": "Hafif makineli ailesinin değeri anlaşılamamış ortanca çocuğu. Yakın mesafede oldukça etkili ve tam otomatik bir silah olan UMP-45'in tek dezavantajı küçük şarjör kapasitesidir. A tan and red animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
+  "name": "UMP-45 | Sıcakkanlı",
+  "description": "Hafif makineli ailesinin değeri anlaşılamamış ortanca çocuğu. Yakın mesafede oldukça etkili ve tam otomatik bir silah olan UMP-45'in tek dezavantajı küçük şarjör kapasitesidir. Kahverengi ve kırmızı renkli bir hayvan baskı deseni uygulanmıştır.\\n\\n<i>\\\"Birkaç hayvan\\\" demiştin, \\\"bütün hayvanlar alemi\\\" değil.</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -146039,7 +146039,7 @@
   },
   "pattern": {
    "id": "hye_test_animal_print_45",
-   "name": "Warm Blooded"
+   "name": "Sıcakkanlı"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -149718,8 +149718,8 @@
  },
  {
   "id": "skin-a060f0657eb4",
-  "name": "USP-S | Sleeping Potion",
-  "description": "Counter-Strike: Source hayranlarının favorilerinden biri olan USP-S tabancası, silahın geri tepme oranını azaltırken aynı zamanda sesini de bastıran ve takıp çıkarılabilen bir susturucuya sahiptir. A purple camo pattern with a pearlescent finish has been applied.\\n\\n<i>A new brew!</i>",
+  "name": "USP-S | Uyku İksiri",
+  "description": "Counter-Strike: Source hayranlarının favorilerinden biri olan USP-S tabancası, silahın geri tepme oranını azaltırken aynı zamanda sesini de bastıran ve takıp çıkarılabilen bir susturucuya sahiptir. Sedefli mor kamuflaj deseniyle boyanmıştır.\\n\\n<i>Taze karışım!</i>",
   "weapon": {
    "id": "weapon_usp_silencer",
    "weapon_id": 61,
@@ -149731,7 +149731,7 @@
   },
   "pattern": {
    "id": "soe_purple",
-   "name": "Sleeping Potion"
+   "name": "Uyku İksiri"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -153294,7 +153294,7 @@
  {
   "id": "skin-674317d93e09",
   "name": "XM1014 | XoooM",
-  "description": "XM1014, pahalı fiyat etiketini bir odayı anında kurşunla doldurabilme kabiliyetiyle telafi eden güçlü ve tam otomatik bir pompalı tüfektir. A yellow pattern has been applied and finished with silver accents.\\n\\n<i>ZZZZZAP!</i>",
+  "description": "XM1014, pahalı fiyat etiketini bir odayı anında kurşunla doldurabilme kabiliyetiyle telafi eden güçlü ve tam otomatik bir pompalı tüfektir. Sarı bir desenle boyanmış ve gümüş vurgularla tamamlanmıştır.\\n\\n<i>BIZZZT!</i>",
   "weapon": {
    "id": "weapon_xm1014",
    "weapon_id": 25,
